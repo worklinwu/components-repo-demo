@@ -16,7 +16,7 @@
 
 搜寻了一些解决方案, 我们团队把方案定在了使用 `Coding.net 提供的服务` + `Lerna` 来实现我们的组件仓库的搭建.
 
-## Codeing
+## Coding
 
 先说 Coding.  
 
