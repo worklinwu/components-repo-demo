@@ -1,0 +1,11 @@
+{
+  "name": "c-select",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "element-ui": "^2.12.0"
+  },
+  "gitHead": "8768283e04c97694b889627a3b37d498326a9a10"
+}

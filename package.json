@@ -1,0 +1,38 @@
+{
+  "name": "components-repo-demo",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@vue/cli-plugin-babel": "^4.2.0",
+    "@vue/cli-plugin-eslint": "^4.2.0",
+    "@vue/cli-service": "^4.2.0",
+    "babel-eslint": "^10.0.3",
+    "codemirror": "^5.52.0",
+    "core-js": "^3.6.4",
+    "element-ui": "^2.12.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.1.2",
+    "lint-staged": "^9.5.0",
+    "lodash": "^4.17.11",
+    "normalize.css": "^8.0.1",
+    "sass": "^1.25.0",
+    "sass-loader": "^8.0.2",
+    "vue": "^2.6.11",
+    "vue-codemirror": "^4.0.6",
+    "vue-router": "^3.1.5",
+    "vue-split-panel": "^1.0.4",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-nullish-coalescing-operator": "^7.8.3",
+    "@babel/plugin-proposal-optional-chaining": "^7.8.3",
+    "lerna": "^3.20.2"
+  }
+}
